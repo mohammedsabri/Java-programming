@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="887.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.MainController">
+   <children>
+      <Button layoutY="636.0" mnemonicParsing="false" onAction="#handleAgentAddPropertyBtn" prefHeight="45.0" prefWidth="191.0" text="Add Property" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="10.0" layoutY="222.0" mnemonicParsing="false" onAction="#handleAgentUpdateScreenBtn" prefHeight="45.0" prefWidth="207.0" text="Update Property" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="102.0" mnemonicParsing="false" onAction="#handleDeleteBtn" prefHeight="45.0" prefWidth="207.0" text="Delete Property" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <VBox layoutX="369.0" layoutY="115.0" prefHeight="522.0" prefWidth="516.0">
+         <children>
+            <ListView fx:id="lstView" prefHeight="523.0" prefWidth="516.0" />
+         </children>
+      </VBox>
+      <Label layoutX="261.0" layoutY="7.0" prefHeight="53.0" prefWidth="390.0" text="Agent Main Page" textFill="BLUE">
+         <font>
+            <Font name="System Bold Italic" size="36.0" />
+         </font>
+      </Label>
+      <Button layoutX="672.0" layoutY="667.0" mnemonicParsing="false" onAction="#handleHomeBtn" prefHeight="39.0" prefWidth="207.0" text="Home" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <TextField fx:id="txtFeedBack" layoutY="681.0" prefHeight="39.0" prefWidth="284.0" promptText="FeedBackArea" />
+      <Button layoutX="394.0" layoutY="63.0" mnemonicParsing="false" onAction="#handlelistBtn" prefHeight="39.0" prefWidth="118.0" text="ListAll" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="576.0" layoutY="63.0" mnemonicParsing="false" onAction="#handleListAgentBtn" prefHeight="39.0" prefWidth="118.0" text="ListAgent" textFill="BLUE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

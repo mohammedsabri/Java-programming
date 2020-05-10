@@ -1,0 +1,112 @@
+<object-stream>
+  <list>
+    <sample.Property>
+      <id>1</id>
+      <description>For Sale</description>
+      <address>4 college view walkin street</address>
+      <category>Detached</category>
+      <town>kilkenny</town>
+      <ber>h65</ber>
+      <eircode>gh5g25</eircode>
+      <price>600000</price>
+      <agentName>mohammed</agentName>
+      <phoneNumber>-876543245</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>2</id>
+      <description>For Sale</description>
+      <address>45 college view walkin street</address>
+      <category>Detached</category>
+      <town>Dublin</town>
+      <ber>h65</ber>
+      <eircode>gh5g25</eircode>
+      <price>7000000</price>
+      <agentName>yousif</agentName>
+      <phoneNumber>-876543245</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>3</id>
+      <description>For Sale</description>
+      <address>56 college view </address>
+      <category>semi-Detached</category>
+      <town>Waterford</town>
+      <ber>A1</ber>
+      <eircode>R65W4G6</eircode>
+      <price>500000</price>
+      <agentName>moo</agentName>
+      <phoneNumber>45667888</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>4</id>
+      <description>For sale</description>
+      <address>50 college view</address>
+      <category>semi-Detached</category>
+      <town>Cork</town>
+      <ber>A1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>mo</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>5</id>
+      <description>For sale</description>
+      <address>51 college view</address>
+      <category>Detached</category>
+      <town>Dublin</town>
+      <ber>A1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>moe</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>5</id>
+      <description>For sale</description>
+      <address>52 college view</address>
+      <category>Terraced</category>
+      <town>Limeick</town>
+      <ber>B1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>yousif</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>6</id>
+      <description>For sale</description>
+      <address>53 college view</address>
+      <category>Apartment</category>
+      <town>Limeick</town>
+      <ber>C1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>sabri</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>6</id>
+      <description>For sale</description>
+      <address>54 college view</address>
+      <category>Apartment</category>
+      <town>Cork</town>
+      <ber>C1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>sabri</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+    <sample.Property>
+      <id>7</id>
+      <description>For sale</description>
+      <address>54 college view</address>
+      <category>Terraced</category>
+      <town>Cork</town>
+      <ber>C1</ber>
+      <eircode>r55T666</eircode>
+      <price>20000000</price>
+      <agentName>john</agentName>
+      <phoneNumber>8799965</phoneNumber>
+    </sample.Property>
+  </list>
+</object-stream>

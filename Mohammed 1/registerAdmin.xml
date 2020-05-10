@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <sample.User>
+      <username>mo50</username>
+      <password>mo55</password>
+    </sample.User>
+    <sample.User>
+      <username>mo20</username>
+      <password>mo25</password>
+    </sample.User>
+  </list>
+</object-stream>

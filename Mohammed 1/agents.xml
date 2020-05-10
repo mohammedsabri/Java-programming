@@ -1,0 +1,29 @@
+<object-stream>
+  <list>
+    <sample.Agent>
+      <id>1</id>
+      <username>moe</username>
+      <password>mo10</password>
+    </sample.Agent>
+    <sample.Agent>
+      <id>2</id>
+      <username>yousif</username>
+      <password>mo15</password>
+    </sample.Agent>
+    <sample.Agent>
+      <id>3</id>
+      <username>sabri</username>
+      <password>mo20</password>
+    </sample.Agent>
+    <sample.Agent>
+      <id>10</id>
+      <username>mohammed sabri</username>
+      <password>mo1738</password>
+    </sample.Agent>
+    <sample.Agent>
+      <id>23</id>
+      <username>rr</username>
+      <password>55</password>
+    </sample.Agent>
+  </list>
+</object-stream>
